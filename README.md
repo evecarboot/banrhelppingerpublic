@@ -1,10 +1,5 @@
-# BANR Help Pinger Public
-Just somewhere to upload the releases for The Bannermen corp members to download. 
-
-
 # BANR Help Pinger
-
-A small EVE Online combat-log monitor for The Bannermen.
+Just somewhere to upload the releases for The Bannermen corp members to download. 
 
 ## Download
 
