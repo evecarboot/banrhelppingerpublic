@@ -36,6 +36,10 @@ The Windows test ZIP also contains `run-test.bat`. Double-click it to create a t
 
 Choose `macos-intel` for Intel Macs. Choose `macos-arm64` for Apple Silicon Macs.
 
+Damaged file... 
+
+Rename it to BANRHelpPinger and then run this in terminal `xattr -cr ~/Downloads/BANRHelpPinger.app` and then drag it to your applications folder.
+
 ## Linux
 
 1. Download `BANRHelpPinger-test-linux-x64.AppImage`.
